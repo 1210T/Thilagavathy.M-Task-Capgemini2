@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <title> My Bio Data</title>
+    <style>
+        h1{
+            color:darkred
+        }
+        body{
+            background-color: mediumorchid;
+            background-color: rgb(82, 100, 128);
+            background-color: #945646;
+            background-color: hsl(332, 21%, 52%);
+            background-color: hsla(268, 10%, 56%, 0.7);
+            /* by color picker */
+            background-color: rgb(99,97,104);
+            background-color: rgba(38, 167, 145, 0.9);
+              }
+    </style>
+    </head>
+    <body>
+      <h1><marquee>Thilagavathy</marquee></h1>
+       <!-- this one done by using saving tne image -->
+      <!-- <img src="F:\schichan.1.png" alt="photo">  -->
+     <!-- this one done by direct link -->
+      <img src="https://st1.bollywoodlife.com/wp-content/uploads/2020/09/FotoJet382.jpg" alt="photo ">
+      <p style="color:rgb(17, 7, 153)">You can address me as a self confident and positive thinker as Thilagavathy<p>Whenever i lag i used to think in a positive way and keep on move towards  my sucess.
+              <pre>my <u>short-term goal</u>  is to settle down to the new work environment as quickly as i can and
+                          my <u>long-term goal</u> is to grow into the job.
+                              progess is the key,I want to see myself extracting every single drop of experience as i move ahead.
+       <h1>hello</h1>
+      <a href="F:\Project decscription.txt">Project</a>
+  </body>
+</html>
