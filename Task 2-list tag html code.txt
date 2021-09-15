@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>Recipe</title>
+    </head>
+    <body>
+        <h1>WELCOME</h1>
+        <!-- definition tags -->
+        <dl>
+            <dt><h2>chicken gravy preparations</h2></dt>
+            <dd>This recipe is a simple and quick version of making chicken gravy.
+                Indian recipes always has a lot of ingredients and spices in it this chicken gravy is one among them.
+                Adding the right ingredients in exact proportion makes the dish taste more delicious. This chicken gravy is made without coconut and i can guarantee you that you are gonna love it. 
+                Due to its simplicity and easiness my mom prepares this gravy on every Christmas and Easter night before the mass starts so that we can have our second dinner as soon as we come back from church. My favorite combination is this curry with a plate of parotta. Oh my god my mouth is watering thinking of it.</dd>
+        </dl>
+        <!-- Unordered list -->
+        <ul type="square"> 
+            <h3>Ingredients</h3>
+            <li> 3 Cardamom pods</li>
+            <li>2 large Onions</li>
+            <li>1 tbsp Ginger Garlic paste</li>
+            <li>  1/4 tsp Turmeric Powder</li>
+            <li> 1 tsp Cumin powder</li>
+            <li> 1 tsp Garam masala Powder</li>
+            <li> 1 tbsp Red Chillie powder</li>
+            <li>2 Tomatoes</li>
+            <li>1 cup Water</li>
+            <li>salt to taste</li>
+            <li>coriander leaves for garnishing</li>
+            <li>3/4 kg Chicken</li>
+            <li> 3 Tbsp Oil</li>
+            <li> 1 Cinnamon stick</li>
+            <li> 3 Cloves</li>
+        </ul>
+        <!-- ordered list -->
+        <ol> 
+            <h3>Instructions</h3>
+             <li>Heat oil and add the whole spices, onion and saute until golden</li>
+             <li>Add all the masalas along with the tomato and cook until soft and mushy</li>
+            <!-- to continue the same type use start property-->
+            <!-- <ol type="1" start="3"> -->
+             <li> add the chicken pieces, water , salt and cook for 15-20 minutes</li>
+             <li>Finally garnish it with chopped coriander leaves</li>
+             <li>Our chicken Gravy is ready to be served.</li>
+        </ol>
+        <h1><marquee>THILAGAVATHY M</marquee></h1>
+    </body>
+</html>
+
