@@ -1,0 +1,85 @@
+h1{
+    background-color:rgb(192, 33, 46);
+}
+h2{
+    color: rgb(184, 60, 15);}
+h3{
+        background-color: rgb(201, 221, 19);
+    }
+.image img{  
+     height: 250px;
+     width: 33%;  
+}
+.image{
+    background-color: rgb(122, 53, 25);
+    margin-top:2px;
+    margin-bottom: 1px;
+    
+}
+.yoga1{
+    float:left;
+    height:250px;
+    width:33%;
+    background-color: silver;
+    margin-right:4px;
+    padding-bottom: 95px;
+    padding-top: 7px;
+    margin-top: 2px;
+
+}
+.yoga1 img{
+    height:135px;
+}
+
+.yoga2{
+    float: left;
+    height:250px;
+    width:33%;
+    background-color: wheat;
+    padding-bottom: 135px;
+    padding-top: 7px;
+    margin-top: 2px;
+
+}
+.yoga3{
+    float:right;
+    height:250px;
+    width:33%;
+    background-color: seagreen;
+    padding-bottom: 125px;
+    padding-top: 7px;
+    margin-top: 2px;
+
+}
+.yog3 img{
+    height: 95px;
+   
+}
+.header{
+    color: rgb(85, 16, 195);
+}
+body{
+    background-color: rgb(202, 201, 183);
+}
+table tr,th,td{
+     border:6px solid rgb(118,66,97);
+     border-collapse: collapse;
+ }
+ table{
+     height:auto;
+     width:60%;
+ }
+ td{
+     height:40px;
+     text-align: center;
+     vertical-align:middle;
+ }
+tr:hover:nth-child(odd)
+{
+    color: rgb(27, 62, 129);
+    background-color: rgb(221, 152, 140);
+}
+tr:hover{
+    background-color: gold;
+    color: rgb(206, 9, 107);
+}
