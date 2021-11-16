@@ -1,0 +1,22 @@
+package product;
+
+import java.util.Scanner;
+
+public class Product {
+
+	public static void main(String[] args) {
+		Scanner s1= new Scanner(System.in);
+		int num1;
+		int num2;
+		int product;
+		System.out.println("Enter a first number:");
+		num1=s1.nextInt();
+		System.out.println("Enter a second number:");
+		num2=s1.nextInt();
+		product=num1*num2;
+	    System.out.println("product is:" +product);
+		
+
+	}
+
+}
